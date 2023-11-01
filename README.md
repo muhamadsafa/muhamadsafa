@@ -1,6 +1,5 @@
-<!-- Animated Header with Emoji -->
 <p align="center">
-  <img src="https://emojicombos.com/emoji/Animated_Emoji/Animated_Rocket.gif" width="60" alt="🚀">
+  🌟🚀✨
 </p>
 
 <!-- Header -->
