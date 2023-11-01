@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhamadsafa
-- 👀 I’m interested in Web Development and Data Analyst
-- 🌱 I’m currently learning HTML, CSS, PHP, and Python
+- 👀 I’m interested in Web Development, Data Analyst, and, Quality Assurance 
+- 🌱 I’m currently learning, PHP, JavaScript, and, Python
 
 
 <!---
