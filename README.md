@@ -10,10 +10,9 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python%20%7C%20Ruby-brightgreen" alt="Languages">
+  <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20Python%20%7C%20HTML-brightgreen" alt="Languages">
   <img src="https://img.shields.io/badge/Tools-React%20%7C%20Node.js%20%7C%20Docker-blueviolet" alt="Tools">
-  <img src="https://img.shields.io/badge/Interests-Machine%20Learning%20%7C%20Blockchain-orange" alt="Interests">
-  <img src="https://img.shields.io/badge/OS-Ubuntu%20%7C%20macOS-informational" alt="Operating System">
+  <img src="https://img.shields.io/badge/Interests-Machine%20Learning%20%7C%20BSoftware-Engineering" alt="Interests">
 </p>
 
 <!-- About Me -->
@@ -29,11 +28,11 @@
 | [Project A](https://link-to-project-a) | Short description of Project A |
 | [Project B](https://link-to-project-b) | Brief overview of Project B | -->
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+</p> ->
 
 <!-- Languages Used -->
 ## 🔧 Languages and Tools
@@ -55,4 +54,4 @@
 </p>
 
 <!-- Footer -->
-<p align="center">Crafted with ❤️ by msafadh | View my profile at [msafadh](https://github.com/muhamadsafa)</p>
+<p align="center">https://github.com/muhamadsafa</p>
