@@ -1,5 +1,3 @@
-
-
 <!-- Header -->
 <p align="center">
   <img src="https://your-image-url.com/your-animated-image.gif" width="300" alt="Your Name">
