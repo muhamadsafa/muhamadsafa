@@ -1,6 +1,4 @@
-<p align="center">
-  🌟🚀✨
-</p>
+
 
 <!-- Header -->
 <p align="center">
