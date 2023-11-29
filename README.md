@@ -45,11 +45,11 @@
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/msafadh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
   </a>
 <p align="center">
   <a href="https://instagram.com/msafadh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=Instagram" alt="LinkedIn">
   </a>
  <!-- <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-YourPortfolio-black?style=for-the-badge&logo=github" alt="Portfolio">
