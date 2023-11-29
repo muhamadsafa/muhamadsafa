@@ -9,16 +9,16 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-HTML%20%7C%20JavaScript%20%7C%20Python-brightgreen" alt="Languages">
-  <img src="https://img.shields.io/badge/Tools-React%20%7C%20Node.js%20%7C%20Docker-blueviolet" alt="Tools">
-  <img src="https://img.shields.io/badge/Interests-%20%7C%20Software-Engineering" alt="Interests">
+  <img src="https://img.shields.io/badge/Languages-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Python-brightgreen" alt="Languages">
+  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20Figma%20%7C%20SQL-blueviolet" alt="Tools">
+  <img src="https://img.shields.io/badge/Interests-SE%20%7C%20SystemAnalyst%20%7C%20DataScienctist" alt="Interests">
 </p>
 
 <!-- About Me -->
 ## 🚀 About Me
 - 👋 Hi, I’m @muhamadsafa
-- 👀 I’m interested in Software Engineering, Data Analyst, and, Quality Assurance 
-- 🌱 I’m currently learning, PHP, JavaScript, Python, and etc.
+- 👀 I’m interested in Software Engineering, System Analyst, and, Data Science
+- 🌱 I’m currently learning, HTML,CSS, PHP, JavaScript, Python, and etc.
 
 <!-- Featured Projects 
 ## 🛠️ Featured Projects
@@ -36,10 +36,10 @@
 <!-- Languages Used -->
 ## 🔧 Languages and Tools
 <p align="center">
+   <img src="https://img.shields.io/badge/Code-HTML-orange" alt="HTML">
+   <img src="https://img.shields.io/badge/Code-CSS-blue" alt="CSS">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/Code-Python-blue" alt="Python">
-  <img src="https://img.shields.io/badge/Tools-React%20%7C%20Node.js%20%7C%20Docker-orange" alt="Tools">
-</p>
 
 <!-- Let's Connect -->
 ## 🌐 Let's Connect
