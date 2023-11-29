@@ -7,12 +7,7 @@
 <h1 align="center">Hello, folks! I'm Muhamad Safa 👋</h1>
 <p align="center">A Software Engineer | IT Enthusiasts </p>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Languages-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Python-brightgreen" alt="Languages">
-  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20Figma%20%7C%20SQL-blueviolet" alt="Tools">
-  <img src="https://img.shields.io/badge/Interests-SE%20%7C%20SystemAnalyst%20%7C%20Data Science -green" alt="Interests">
-</p>
+
 
 <!-- About Me -->
 ## 🚀 About Me
@@ -40,6 +35,13 @@
    <img src="https://img.shields.io/badge/Code-CSS-blue" alt="CSS">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/Code-Python-blue" alt="Python">
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Python-brightgreen" alt="Languages">
+  <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20Figma%20%7C%20SQL-blueviolet" alt="Tools">
+  <img src="https://img.shields.io/badge/Interests-SE%20%7C%20SystemAnalyst%20%7C%20Data Science -green" alt="Interests">
+</p>
 
 <!-- Let's Connect -->
 ## 🌐 Let's Connect
