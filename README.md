@@ -12,7 +12,7 @@
 <!-- About Me -->
 ## 🚀 About Me
 - 👋 Hi, I’m @muhamadsafa
-- 👀 I’m interested in Software Engineering, System Analyst, and, Data Science
+- 👀 I’m interested in Web Development, System Analyst, UIUX Design and, Data Science
 - 🌱 I’m currently learning, HTML,CSS, PHP, JavaScript, Python, and etc.
 
 <!-- Featured Projects 
@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Python-brightgreen" alt="Languages">
   <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20Figma%20%7C%20SQL-blueviolet" alt="Tools">
-  <img src="https://img.shields.io/badge/Interests-SE%20%7C%20SystemAnalyst%20%7C%20Data Science -green" alt="Interests">
+  <img src="https://img.shields.io/badge/Interests-Web Development%20%7C%20System Analyst%20%7C%20Data Science -green" alt="Interests">
 </p>
 
 <!-- Let's Connect -->
@@ -49,9 +49,9 @@
   <a href="https://linkedin.com/in/msafadh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
   </a>
- <!-- <a href="https://yourportfolio.com" target="_blank">
+  <a href="[https://yourportfolio.com](https://drive.google.com/file/d/1eycNJRJLwnjoF86VqCIBX-1_jBDwb_CY/view?usp=sharing)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-YourPortfolio-black?style=for-the-badge&logo=github" alt="Portfolio">
-  </a>!-->
+  </a>
 </p>
 
 <!-- Footer -->
