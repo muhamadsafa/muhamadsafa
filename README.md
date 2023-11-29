@@ -5,7 +5,7 @@
 
 <!-- Title -->
 <h1 align="center">Hello, folks! I'm Muhamad Safa 👋</h1>
-<p align="center">A Software Engineer | IT Enthusiasts </p>
+<p align="center">IT Enthusiasts </p>
 
 
 
