@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-HTML%20%7C%20JavaScript%20%7C%20Python-brightgreen" alt="Languages">
   <img src="https://img.shields.io/badge/Tools-React%20%7C%20Node.js%20%7C%20Docker-blueviolet" alt="Tools">
-  <img src="https://img.shields.io/badge/Interests-Machine%20Learning%20%7C%20Software-Engineering" alt="Interests">
+  <img src="https://img.shields.io/badge/Interests-%20%7C%20Software-Engineering" alt="Interests">
 </p>
 
 <!-- About Me -->
