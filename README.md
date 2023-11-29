@@ -49,7 +49,7 @@
   <a href="https://linkedin.com/in/msafadh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
   </a>
-  <a href="[https://yourportfolio.com](https://drive.google.com/file/d/1eycNJRJLwnjoF86VqCIBX-1_jBDwb_CY/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/1eycNJRJLwnjoF86VqCIBX-1_jBDwb_CY/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-YourPortfolio-black?style=for-the-badge&logo=github" alt="Portfolio">
   </a>
 </p>
