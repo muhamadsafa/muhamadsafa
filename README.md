@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Python-brightgreen" alt="Languages">
   <img src="https://img.shields.io/badge/Tools-VSCode%20%7C%20Figma%20%7C%20SQL-blueviolet" alt="Tools">
-  <img src="https://img.shields.io/badge/Interests-SE%20%7C%20SystemAnalyst%20%7C%20DataScienctist -green" alt="Interests">
+  <img src="https://img.shields.io/badge/Interests-SE%20%7C%20SystemAnalyst%20%7C%20Data Science -green" alt="Interests">
 </p>
 
 <!-- About Me -->
@@ -46,6 +46,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/msafadh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
+  </a>
+<p align="center">
+  <a href="https://instagram.com/msafadh/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram" alt="LinkedIn">
   </a>
  <!-- <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-YourPortfolio-black?style=for-the-badge&logo=github" alt="Portfolio">
