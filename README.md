@@ -54,5 +54,5 @@
   </a>
 </p>
 
-<!-- Footer -->
-<p align="center">https://github.com/muhamadsafa</p>
+<!-- Footer
+<p align="center">https://github.com/muhamadsafa</p>  -->
