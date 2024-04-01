@@ -1,7 +1,7 @@
 
 <!-- Welcome Animation -->
 <p align="center">
-  <img src="https://pixabay.com/id/gifs/halo-salam-teks-3d-biru-hitam-7497/" width="300" alt="Welcome">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21mdTVkN3JnOHlwb2w4dWFuNHBlZGFnMXYxeHE4M2lmZ2N0d3J3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="300" alt="Welcome">
 </p>
 
 
