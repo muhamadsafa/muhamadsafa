@@ -4,16 +4,16 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">Hello there! I'm Muhamad Safa 👋</h1>
-<p align="center">Enthusiastic IT Developer | Quality Assurance Maestro | System Analysis Aficionado</p>
+<h1 align="center">Hello, folks! I'm Muhamad Safa 👋</h1>
+<p align="center">IT Enthusiast | Developer | QA Engineer | System Analyst</p>
 
 <!-- About Me -->
 ## 🚀 About Me
-- 👋 Greetings! I'm Muhammad Safa, passionate about shaping the future through IT.
-- 👨‍💻 I thrive in the realms of IT Development, Quality Assurance Engineering, and System Analysis.
-- 🌟 Committed to crafting innovative solutions that make a difference.
-- 📚 Always on the quest for knowledge, exploring new technologies and methodologies.
-- 💡 Let's collaborate and turn ideas into reality!
+- 👋 Hi there, I'm Muhammad Safa!
+- 👨‍💻 Passionate about IT Development, Quality Assurance Engineering, and System Analysis.
+- 🌟 Always striving to innovate and optimize solutions.
+- 📚 Constant learner, eager to explore new technologies and methodologies.
+- 💡 Let's collaborate and create impactful projects together!
 
 <!-- Languages Used -->
 ## 🔧 Languages and Tools
@@ -34,6 +34,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
   </a>
 </p>
-
-<!-- Footer -->
-<p align="center">Reach out to me and explore more at [https://github.com/muhamadsafa](https://github.com/muhamadsafa)</p>
