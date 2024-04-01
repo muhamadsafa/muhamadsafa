@@ -12,7 +12,7 @@
 
 <!-- Title -->
 <h1 align="center">Hello, folks! I'm Muhamad Safa 👋</h1>
-<p align="center">IT Enthusiast | Developer | QA Engineer | System Analyst</p>
+<p align="center">IT Enthusiast | Web Developer | QA Engineer | System Analyst</p>
 
 <!-- About Me -->
 ## 🚀 About Me
