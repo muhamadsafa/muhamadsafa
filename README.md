@@ -1,3 +1,10 @@
+
+<!-- Welcome Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="300" alt="Welcome">
+</p>
+
+
 <!-- Header -->
 <p align="center">
   <img src="https://your-image-url.com/your-animated-image.gif" width="300" alt="Your Name">
