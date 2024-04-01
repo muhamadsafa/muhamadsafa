@@ -1,7 +1,7 @@
 
 <!-- Welcome Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="300" alt="Welcome">
+  <img src="https://pixabay.com/id/gifs/halo-salam-teks-3d-biru-hitam-7497/" width="300" alt="Welcome">
 </p>
 
 
@@ -33,16 +33,6 @@
    <img src="https://img.shields.io/badge/tools-VS%20Code-blue" alt="VS Code">
    <img src="https://img.shields.io/badge/tools-Jira-green" alt="Jira">
 </p>
-
-<!-- Spotify Playing -->
-## 🎧 Spotify Playing
-<p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF" target="_blank">
-    <img src="https://spotify-now-playing-ten.vercel.app/api/spotify" alt="Now Playing">
-  </a>
-</p>
-
-
 
 <!-- Let's Connect -->
 ## 🌐 Let's Connect
