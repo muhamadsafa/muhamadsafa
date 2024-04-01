@@ -30,7 +30,7 @@
 <!-- Spotify Playing -->
 ## 🎧 Spotify Playing
 <p align="center">
-  <a href="https://open.spotify.com/user/youruserid" target="_blank">
+  <a href="https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF" target="_blank">
     <img src="https://spotify-now-playing-ten.vercel.app/api/spotify" alt="Now Playing">
   </a>
 </p>
