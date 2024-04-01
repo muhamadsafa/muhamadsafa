@@ -16,7 +16,7 @@
 
 <!-- About Me -->
 ## 🚀 About Me
-- 👋 Hi there, I'm Muhammad Safa!
+- 👋 Hi there, I'm Muhamad Safa!
 - 👨‍💻 Passionate about IT Development, Quality Assurance Engineering, and System Analysis.
 - 🌟 Always striving to innovate and optimize solutions.
 - 📚 Constant learner, eager to explore new technologies and methodologies.
