@@ -31,10 +31,9 @@
 <!-- Languages Used -->
 ## 🔧 Languages and Tools
 <p align="center">
-   <img src="https://img.shields.io/badge/Code-HTML-red" alt=" PHP Laravel">
-   <img src="https://img.shields.io/badge/Code-CSS-blue" alt="CSS">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Code-Python-blue" alt="Python">
+   <img src="https://img.shields.io/badge/Code-PHP Laravel-red" alt=" PHP Laravel">
+   <img src="https://img.shields.io/badge/Code-QA Engineer-yellow" alt="QA Engineer">
+  <img src="https://img.shields.io/badge/Code-System Analyst-yellow" alt="System Analyst">
 
 <!-- Badges -->
 <p align="center">
