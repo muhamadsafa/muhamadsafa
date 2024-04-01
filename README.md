@@ -11,9 +11,11 @@
 
 <!-- About Me -->
 ## 🚀 About Me
-- 👋 Hi, I’m @muhamadsafa
-- 👀 I’m interested in IT Development, QA Engineer, and System Analyst.
-
+- 👋 Hi there, I'm Muhammad Safa!
+- 👨‍💻 Passionate about IT Development, Quality Assurance Engineering, and System Analysis.
+- 🌟 Always striving to innovate and optimize solutions.
+- 📚 Constant learner, eager to explore new technologies and methodologies.
+- 💡 Let's collaborate and create impactful projects together!
 
 <!-- Featured Projects 
 ## 🛠️ Featured Projects
@@ -31,14 +33,14 @@
 <!-- Languages Used -->
 ## 🔧 Languages and Tools
 <p align="center">
-   <img src="https://img.shields.io/badge/Code-PHP Laravel-red" alt=" PHP Laravel">
-   <img src="https://img.shields.io/badge/Code-QA Engineer-yellow" alt="QA Engineer">
-  <img src="https://img.shields.io/badge/Code-System Analyst-blue" alt="System Analyst">
+   <img src="https://img.shields.io/badge/skill-PHP Laravel-red" alt=" PHP Laravel">
+   <img src="https://img.shields.io/badge/skill-QA Engineer-yellow" alt="QA Engineer">
+  <img src="https://img.shields.io/badge/skill-System Analyst-blue" alt="System Analyst">
 </p>
 <p align="center">
-   <img src="https://img.shields.io/badge/Code-PHP Laravel-red" alt=" PHP Laravel">
-   <img src="https://img.shields.io/badge/Code-QA Engineer-yellow" alt="QA Engineer">
-  <img src="https://img.shields.io/badge/Code-System Analyst-blue" alt="System Analyst">
+   <img src="https://img.shields.io/badge/tools-VS Code-blue" alt="VS Code">
+   <img src="https://img.shields.io/badge/tools-Jira-Green" alt="Jira">
+ 
 </p>
 
 
