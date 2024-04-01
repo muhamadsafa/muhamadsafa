@@ -27,6 +27,16 @@
    <img src="https://img.shields.io/badge/tools-Jira-green" alt="Jira">
 </p>
 
+<!-- Spotify Playing -->
+## 🎧 Spotify Playing
+<p align="center">
+  <a href="https://open.spotify.com/user/youruserid" target="_blank">
+    <img src="https://spotify-now-playing-ten.vercel.app/api/spotify" alt="Now Playing">
+  </a>
+</p>
+
+
+
 <!-- Let's Connect -->
 ## 🌐 Let's Connect
 <p align="center">
