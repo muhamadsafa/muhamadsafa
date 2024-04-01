@@ -12,8 +12,8 @@
 <!-- About Me -->
 ## 🚀 About Me
 - 👋 Hi, I’m @muhamadsafa
-- 👀 I’m interested in Web Development, System Analyst, UIUX Design and, Data Science
-- 🌱 I’m currently learning, HTML,CSS, PHP, JavaScript, Python, and etc.
+- 👀 I’m interested in IT Development, QA Engineer, and System Analyst.
+
 
 <!-- Featured Projects 
 ## 🛠️ Featured Projects
@@ -31,7 +31,7 @@
 <!-- Languages Used -->
 ## 🔧 Languages and Tools
 <p align="center">
-   <img src="https://img.shields.io/badge/Code-HTML-orange" alt="HTML">
+   <img src="https://img.shields.io/badge/Code-HTML-red" alt=" PHP Laravel">
    <img src="https://img.shields.io/badge/Code-CSS-blue" alt="CSS">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/Code-Python-blue" alt="Python">
